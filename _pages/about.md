@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a third year undergraduate student from College of Marine Information Engineering(https://ie.jmu.edu.cn/), Jimei University(https://www.jmu.edu.cn/). My research interest includes computer vision,,machine learning, and deep learning.
 
-[Email](mailto:202021114013@jmu.edu.cn) / [Github](https://github.com/maoling66) / [Wechat](../images/wechat.jpg) 
+[Email](202021114013@jmu.edu.cn) / [Github](https://github.com/maoling66) / [Wechat](../images/wechat.jpg) 
