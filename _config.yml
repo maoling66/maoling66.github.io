@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xyl.png"
   name             : "Yaling Xie"
   pronouns         : "she/her"  
-  bio              : "I'm Xie Yaling."
+  bio              : 
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : "https://maoling66.github.io"# URL
   email            : "202021114013@jmu.edu.cn" 
 
   # Academic websites
